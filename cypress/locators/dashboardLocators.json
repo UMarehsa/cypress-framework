@@ -1,0 +1,4 @@
+{
+    "admin":".oxd-main-menu-item--name",
+    "pim":":nth-child(2) > .oxd-main-menu-item"
+}

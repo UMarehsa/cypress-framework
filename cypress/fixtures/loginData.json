@@ -1,0 +1,9 @@
+{
+  "loginPage":"Login",
+  "invalidUserName": "umer23",
+  "password": "admin123",
+  "requiredErrorMessage": "Required",
+  "invalidCredentialsMessage":"Invalid credentials",
+  "UserName":"Admin",
+  "dashboard":"Dashboard"
+}

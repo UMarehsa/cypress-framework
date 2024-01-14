@@ -1,0 +1,9 @@
+{
+    "userNameText":"input[placeholder='Username']",
+    "passwordText":"input[placeholder='Password']",
+    "loginBtn":"button[type='submit']",
+    "requiredErrorMessage":".oxd-input-group__message",
+    "invalidCredentialsMessage":".oxd-alert-content > .oxd-text",
+    "loginPage":".oxd-text--h5",
+    "dashboard":".oxd-topbar-header-breadcrumb > .oxd-text"
+}
